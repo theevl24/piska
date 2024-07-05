@@ -4,6 +4,7 @@ import { ref } from "vue";
 defineProps({
   msg: String,
 });
+const sexxx = ref(0);
 
 const count = ref(0);
 </script>
